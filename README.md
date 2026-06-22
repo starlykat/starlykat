@@ -1,70 +1,107 @@
-<h1 align="center">Sarah Carlo</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer • Builder • Problem Solver</h3>
+# Sarah Carlo
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,tailwind,git,github,vscode" />
-</p>
+### Full Stack Developer • Product Builder • System Thinker
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,tailwind,docker,git,github,vercel,vscode" />
+
+<br>
+
+*"Building products people remember, not projects people forget."*
+
+</div>
 
 ---
 
-## ✨ Philosophy
+## 🧠 How I Think
 
-I don't just build applications.
+Most developers focus on writing code.
 
-I design experiences, architect systems, and solve problems that matter.
+I focus on building systems that survive growth.
 
 I care about:
 
-- Clean architecture over quick hacks
-- User experience as much as backend logic
-- Scalability without unnecessary complexity
-- Writing code that future developers appreciate
+- Architecture before implementation
+- User experience before feature count
+- Maintainability before shortcuts
+- Clarity before cleverness
+- Products before technologies
 
-> Great products aren't built by features alone.
-> They're built through thoughtful engineering.
+I believe great software is invisible.
+
+Users shouldn't notice the engineering.
+
+They should only notice that everything works.
 
 ---
 
-## 🚀 What I Build
+## ⚡ What I Build
 
-- Modern full-stack web applications
-- Interactive user experiences
-- Scalable backend services
-- Responsive and accessible interfaces
-- Data-driven applications
-- End-to-end product solutions
+- Production-grade web applications
+- Modern SaaS platforms
+- Full-stack products from idea to deployment
+- Scalable backend systems
+- Responsive and accessible user interfaces
+- Real-world solutions with measurable impact
 
 ---
 
 ## 🎯 Current Focus
 
-- Advanced React & Next.js patterns
-- Full-stack architecture design
-- API optimization and performance
-- Database design and scalability
-- Type-safe development workflows
-- Building production-grade applications
+- Advanced React patterns
+- Next.js architecture
+- Backend scalability
+- API design
+- Database optimization
+- System design fundamentals
+- Product engineering
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Engineering Stack
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind)
 
-### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
 
-### Databases
-![Database](https://skillicons.dev/icons?i=mongodb,postgres)
-
-### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel)
+Building interfaces that feel effortless.
 
 ---
 
-## 🌱 Development Mindset
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+Creating reliable systems and APIs.
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+Designing data models that scale.
+
+---
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode" />
+</p>
+
+Shipping products efficiently.
+
+---
+
+## 🚀 Engineering Principles
 
 ```txt
-Think → Design → Build → Refine → Scale
+Understand > Design > Build > Refine > Scale
